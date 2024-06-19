@@ -6,3 +6,4 @@ let suma = num1 + num2;
 
 // muestra el resultado
 console.log(`La suma de ${num1} y ${num2} es: ${suma}`);
+
